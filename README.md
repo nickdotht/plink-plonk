@@ -27,6 +27,7 @@ I'll be working on it every Sunday and will accept any useful pull request.
 - Allows you to select what to hear sound for (Network or Dom Changes) - TBD
 - Display a sticky pulsing circle on the page to provide sound visualization - TBD
 - Allows you to select whether you want sound visualization - TBD
+- Port it to Firefox - TBD
 
 ## TODO
 
