@@ -1,4 +1,4 @@
-# Reddit Post Previewer
+# Plink Plonk
 A minimal sound debugger for web pages.
 
 ## Screenshot
