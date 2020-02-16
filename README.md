@@ -1,5 +1,5 @@
 # Plink Plonk
-A minimal sound debugger for web pages.
+A minimal auditory debugger for web pages.
 
 ## Screenshot
 
