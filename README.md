@@ -53,7 +53,7 @@ I'll be working on it every Sunday and will accept any useful pull request.
 
 ## Credits
 
-Props to the original author @[tomhicks][og)
+Props to the author of [the original script][original-script]: @[tomhicks][og].
 
 Icon and logo made with the elegant [Pixlr][pixlr] tool. I could do better, but I was going fast.
 
