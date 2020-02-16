@@ -1,6 +1,23 @@
 # Plink Plonk
 A minimal auditory debugger for web pages.
 
+## Installation
+There are two possible ways to install this extension:
+
+### Easy way
+
+From the Chrome Web Store - TBD / Waiting for the Chrome store review. Meanwhile, use the manual installation below
+
+### Manually or if you wish to contribute
+
+Clone or download this project
+
+Go to your extensions page: chrome://extensions/
+
+Check the "Developer mode" box in the top right
+
+Click on the "Load unpacked extension..." button from the dropdown and point it to the unzipped extension directory that you just downloaded/cloned.
+
 ## Screenshot
 
 ![Screenshot][screenshotlink]
@@ -32,23 +49,6 @@ I'll be working on it every Sunday and will accept any useful pull request.
 ## TODO
 
 - Create a better icon/logo
-
-## Installation
-There are two possible ways to install this extension:
-
-### Easy way
-
-From the Chrome Web Store - TBD / Waiting for the Chrome store review. Meanwhile, use the manual installation below
-
-### Manually or if you wish to contribute
-
-Clone or download this project
-
-Go to your extensions page: chrome://extensions/
-
-Check the "Developer mode" box in the top right
-
-Click on the "Load unpacked extension..." button from the dropdown and point it to the unzipped extension directory that you just downloaded/cloned.
 
 ## Credits
 
