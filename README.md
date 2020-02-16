@@ -42,6 +42,7 @@ I'll be working on it every Sunday and will accept any useful pull request.
 - Allows you to quickly deactivate it instead of uninstalling it - TBD
 - Fires on every network request - TBD
 - Allows you to select what to hear sound for (Network or Dom Changes) - TBD
+- Allows to update delay and frequency on the fly - TBD
 - Display a sticky pulsing circle on the page to provide sound visualization - TBD
 - Allows you to select whether you want sound visualization - TBD
 - Port it to Firefox - TBD
@@ -52,12 +53,15 @@ I'll be working on it every Sunday and will accept any useful pull request.
 
 ## Credits
 
+Props to the original author @[tomhicks][og)
+
 Icon and logo made with the elegant [Pixlr][pixlr] tool. I could do better, but I was going fast.
 
 If you have any questions, just [send me a tweet][twitter]. For improvement suggestions or bugs, [open an issue][issues] with the appropriate tag. Pull requests are always welcome :)
 
 Enjoy.
 
+[og]: https://github.com/tomhicks
 [extension]: https://TBD
 [twitter]: https://twitter.com/r4meau
 [issues]: https://github.com/R4meau/plink-plonk/issues
