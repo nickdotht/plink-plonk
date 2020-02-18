@@ -51,6 +51,7 @@ I'll be working on it every Sunday and will accept any useful pull request.
 ## TODO
 
 - Add a license
+- Investigate the AudioContext error about resuming/creating sound on user interaction
 - Create a better icon/logo
 
 ## Credits
