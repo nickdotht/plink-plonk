@@ -50,6 +50,7 @@ I'll be working on it every Sunday and will accept any useful pull request.
 
 ## TODO
 
+- Add a license
 - Create a better icon/logo
 
 ## Credits
