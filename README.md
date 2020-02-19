@@ -41,7 +41,8 @@ I'll be working on it every Sunday and will accept any useful pull request.
 - Fires on every dom changes
 - Allows to quickly deactivate it instead of removing it from Chrome - TBD
 - Fires on every network request - TBD
-- Allows to select what to hear sound for (Network or Dom Changes) - TBD
+- Fires on every console log - TBD
+- Allows to select what to hear sound for (Network or Dom Changes or Console logs) - TBD
 - Allows to update delay and frequency on the fly - TBD
 - Allows to make it sound more futuristic (by making the pitch of a single oscillator longer) - TBD
 - Display a sticky pulsing circle on the page to provide sound visualization - TBD
